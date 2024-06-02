@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render the BubbleChart HMTL correctly against the snapshot 1`] = `
+<div
+  className="bubble-chart"
+>
+  <div
+    className="text-md text-center pb-4 underline"
+  >
+    Dependents by country
+  </div>
+  <div
+    className="bubbles-container rounded-box border-2 border-primary p-4 relative"
+    style={
+      {
+        "height": "300px",
+        "width": "300px",
+      }
+    }
+  >
+    <div
+      className="bg-primary mt-auto mx-auto mb-0 w-1/2 flex justify-center text-black absolute rounded-xl pt-4 tooltip"
+      data-tip="9 Dependant(s)"
+      style={
+        {
+          "border": "",
+          "borderRadius": "100%",
+          "bottom": "calc(40px/2)",
+          "height": "calc(100% - 40px)",
+          "left": "50%",
+          "transform": "translateX(-50%)",
+          "transition": "all 500ms ease",
+          "width": "calc(100% - 40px)",
+        }
+      }
+    >
+      <span
+        className="text-xs"
+      >
+        Latvia
+         - 
+        9
+      </span>
+    </div>
+    <div
+      className="bg-secondary mt-auto mx-auto mb-0 w-1/2 flex justify-center text-black absolute rounded-xl pt-4 tooltip"
+      data-tip="2 Dependant(s)"
+      style={
+        {
+          "border": "",
+          "borderRadius": "100%",
+          "bottom": "calc(40px/2)",
+          "height": "calc(47.14045207910317% - 40px)",
+          "left": "50%",
+          "transform": "translateX(-50%)",
+          "transition": "all 500ms ease",
+          "width": "calc(47.14045207910317% - 40px)",
+        }
+      }
+    >
+      <span
+        className="text-xs"
+      >
+        Germany
+         - 
+        2
+      </span>
+    </div>
+    <div
+      className="bg-accent mt-auto mx-auto mb-0 w-1/2 flex justify-center text-black absolute rounded-xl pt-4 tooltip"
+      data-tip="1 Dependant(s)"
+      style={
+        {
+          "border": "",
+          "borderRadius": "100%",
+          "bottom": "calc(40px/2)",
+          "height": "calc(33.33333333333333% - 40px)",
+          "left": "50%",
+          "transform": "translateX(-50%)",
+          "transition": "all 500ms ease",
+          "width": "calc(33.33333333333333% - 40px)",
+        }
+      }
+    >
+      <span
+        className="text-xs"
+      >
+        China
+         - 
+        1
+      </span>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render the ColChart HTML correctly against the snapshot 1`] = `
+<div
+  className="col-chart"
+>
+  <div
+    className="text-md text-center pb-4 underline"
+  >
+    Users by age group
+  </div>
+  <div
+    className="cols-container flex justify-evenly items-start border-2 rounded-box border-primary p-4"
+    style={
+      {
+        "height": "300px",
+        "width": "500px",
+      }
+    }
+  >
+    <div
+      className="h-full flex relative w-1/3"
+    >
+      <div
+        className="mt-auto mx-auto mb-0 w-1/3 bg-secondary flex justify-center text-black rounded-lg pt-4 tooltip"
+        data-tip="2 User(s)"
+        style={
+          {
+            "height": "100%",
+            "transition": "all 500ms ease",
+          }
+        }
+      >
+        <span
+          className="text-xs"
+        >
+          2
+        </span>
+      </div>
+      <div
+        className="absolute bottom-[-50px] ml-[50%] translate-x-[-50%]"
+      >
+        21-30
+      </div>
+    </div>
+    <div
+      className="h-full flex relative w-1/3"
+    >
+      <div
+        className="mt-auto mx-auto mb-0 w-1/3 bg-secondary flex justify-center text-black rounded-lg pt-4 tooltip"
+        data-tip="1 User(s)"
+        style={
+          {
+            "height": "50%",
+            "transition": "all 500ms ease",
+          }
+        }
+      >
+        <span
+          className="text-xs"
+        >
+          1
+        </span>
+      </div>
+      <div
+        className="absolute bottom-[-50px] ml-[50%] translate-x-[-50%]"
+      >
+        31-40
+      </div>
+    </div>
+    <div
+      className="h-full flex relative w-1/3"
+    >
+      <div
+        className="mt-auto mx-auto mb-0 w-1/3 bg-secondary flex justify-center text-black rounded-lg pt-4 tooltip"
+        data-tip="2 User(s)"
+        style={
+          {
+            "height": "100%",
+            "transition": "all 500ms ease",
+          }
+        }
+      >
+        <span
+          className="text-xs"
+        >
+          2
+        </span>
+      </div>
+      <div
+        className="absolute bottom-[-50px] ml-[50%] translate-x-[-50%]"
+      >
+        41-50
+      </div>
+    </div>
+  </div>
+  <div
+    className="text-xs text-center border-t border-dashed border-primary pt-[10px] mt-[40px]"
+  >
+    Ages in years
+  </div>
+</div>
+`;

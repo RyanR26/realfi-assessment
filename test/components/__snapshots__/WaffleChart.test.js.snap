@@ -1,0 +1,927 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render the ColChart HTML correctly against the snapshot 1`] = `
+<div
+  className="waffle-chart"
+>
+  <div
+    className="text-md text-center pb-4 underline"
+  >
+    User percentage by country
+  </div>
+  <div
+    className="waffle-container rounded-box border-2 border-primary p-4 relative"
+    style={
+      {
+        "height": "300px",
+        "width": "300px",
+      }
+    }
+  >
+    <div
+      className="grid grid-cols-10 w-full h-full gap-[1px]"
+    >
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-primary tooltip"
+        data-tip="Latvia - 40% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-secondary tooltip"
+        data-tip="Spain - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-accent tooltip"
+        data-tip="Germany - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+      <div
+        className="bg-neutral-content tooltip"
+        data-tip="China - 20% of users"
+        style={
+          {
+            "borderRadius": "20%",
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;
