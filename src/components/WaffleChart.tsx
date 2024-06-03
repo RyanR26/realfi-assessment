@@ -1,5 +1,5 @@
 import React, { useMemo, useRef, Fragment } from 'react';
-import counter from '../utils/counter'
+import counter from '../utils/counter';
 
 interface IProps {
   dataPoints: IDataPoint[],
