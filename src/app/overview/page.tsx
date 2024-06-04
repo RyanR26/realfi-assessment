@@ -49,7 +49,7 @@ export default function Page() {
 
   const updateFilter = (target: IGenderState) => {
     setGenderSelected(target)
-  }
+  };
 
   /////////////////////////////
   // Build chart data points //

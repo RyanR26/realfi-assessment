@@ -30,7 +30,7 @@ export default function BubbleChart(props: IProps) {
     config 
   } = props;
 
-  const dataPointsSorted = useMemo(() => dataPoints.sort(function (a, b) {  return b.value - a.value }), [dataPoints]);
+  const dataPointsSorted = useMemo(() => dataPoints.sort(function (a, b) { return b.value - a.value }), [dataPoints]);
   const maxValue = dataPointsSorted[0].value;
   const maxSqrValue = useMemo(() => getSqRootValue(maxValue, maxValue), [maxValue]);
   const height = config?.height || '500px';

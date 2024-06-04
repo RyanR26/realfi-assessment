@@ -22,4 +22,4 @@ export default function getAgeGroupsData(data: IUserData, gender?: IGender)  {
   });
 
   return output;
-}
+};
